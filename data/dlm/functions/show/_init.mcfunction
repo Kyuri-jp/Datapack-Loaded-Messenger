@@ -7,4 +7,4 @@
     data merge storage dlm:message {DatapackVersion:Null}
     data merge storage dlm:message {MinecraftVersion:Null}
     data merge storage dlm:message {License:Null}
-    data merge storage dlm:message {Discription:{Null}}
+    data merge storage dlm:message {Discription:Null}
